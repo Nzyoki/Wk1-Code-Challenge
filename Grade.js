@@ -17,5 +17,5 @@ function studentMarks(grade) {
 
 }
 
-const score = prompt("Enter Marks: ");
+const score = prompt("Enter Marks between 0-100: ");
 console.log(studentMarks(score));
